@@ -1,0 +1,12 @@
+<Config>
+    <VALUE>
+        <NO>1</NO>
+        <ADDR>SDFSDFSF</ADDR>
+    </VALUE>
+
+    <REDIS_MUL>true</REDIS_MUL>
+    <Redis></Redis>
+    <LOG>
+        <FILE>/</FILE>
+    </LOG>
+</Config>
